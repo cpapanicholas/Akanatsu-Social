@@ -1,0 +1,23 @@
+{
+  "name": "akanatsu-social",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "akanatsu-social"
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "Chris Papanicholas",
+  "license": "MIT"
+}
